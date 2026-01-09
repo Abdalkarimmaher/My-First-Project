@@ -1,4 +1,3 @@
-# My First Project
+# Simple Omelette Recipe
 
-This is my first Git and GitHub project.
-I am learning how to use Git step by step.
+A modern recipe webpage built with HTML and CSS, featuring structured content for preparation time, ingredients, step-by-step instructions, and nutrition facts.
